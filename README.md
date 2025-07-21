@@ -28,15 +28,15 @@ The Saturn PCB Toolkit is the best freeware resource for PCB-related calculation
 
 # Specs
 
-  • Bluetooth Low Energy (BLE) 5.4
+  - Bluetooth Low Energy (BLE) 5.4
   
-  • Real-time Time Clock
+  - Real-time Clock
   
-  • Environmental sensors
+  - Environmental sensors
   
-  • Smart Power Management
+  - Smart Power Management
   
-  • Type-C charger
+  - Type-C charger
 
 # Schematic 
 
